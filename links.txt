@@ -1,0 +1,8 @@
+http://de.wikipedia.org/wiki/Git
+http://rogerdudler.github.io/git-guide/index.de.html
+http://gitref.org/
+http://git-scm.com/downloads/logos
+http://de.wikipedia.org/wiki/Software-Configuration-Management
+http://de.wikipedia.org/wiki/GitHub
+https://github.com
+http://www.eclipse.org/egit/download/
