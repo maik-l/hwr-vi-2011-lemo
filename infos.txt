@@ -1,0 +1,1 @@
+- gitextenions installiert msysgit und kdiff3 mit
