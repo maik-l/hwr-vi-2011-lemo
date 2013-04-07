@@ -6,3 +6,5 @@ http://de.wikipedia.org/wiki/Software-Configuration-Management
 http://de.wikipedia.org/wiki/GitHub
 https://github.com
 http://www.eclipse.org/egit/download/
+http://code.google.com/p/tortoisegit/
+http://code.google.com/p/gitextensions/
