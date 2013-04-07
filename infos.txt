@@ -1,1 +1,5 @@
-- gitextenions installiert msysgit und kdiff3 mit
+- github benötigt account bei github.com (wer hätte es gedacht)
+- github nur zum commiten und syncen, zugriff auf dateien nur über explorer, versionsgeschichte fehlt
+
+- gitextensions installiert msysgit und kdiff3 mit
+- hat zugriff auf github .. woher???? neues repository anlegen führt aber ins leere ..
