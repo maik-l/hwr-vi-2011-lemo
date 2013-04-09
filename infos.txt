@@ -3,3 +3,10 @@
 
 - gitextensions installiert msysgit und kdiff3 mit
 - hat zugriff auf github .. woher???? neues repository anlegen führt aber ins leere ..
+- commit von github nicht registriert
+
+- tortoisegit wie tortoisesvn .. intuitiv wenn man das eine kennt
+- hat auch adhoc zugriff auf github
+- commit von github registriert
+
+
